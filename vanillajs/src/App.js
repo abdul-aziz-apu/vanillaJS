@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Document from './components/Document/Document';
+import Document from './containers/Document/Document';
 
 import './App.css';
 
